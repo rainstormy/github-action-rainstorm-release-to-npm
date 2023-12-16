@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/github-action-publish-npm-package.iml" filepath="$PROJECT_DIR$/.idea/github-action-publish-npm-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/github-action-rainstorm-release-to-npm.iml" filepath="$PROJECT_DIR$/.idea/github-action-rainstorm-release-to-npm.iml" />
     </modules>
   </component>
 </project>
